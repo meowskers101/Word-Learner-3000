@@ -1,0 +1,2 @@
+# Word-Learner-3000
+NEEDS OPEN AI API KEY
